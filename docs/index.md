@@ -12,3 +12,4 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: ``https://serge065.github.io/devops-docs/``.
+[битая ссылка](missing-page.md)
